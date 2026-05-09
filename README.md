@@ -1,2 +1,6 @@
 # oneiroi
-I personally think of human mind as best simulator in the world, but can AI/ML "think" and "simulate" senarios like human mind or better than human mind?
+I personally think of human mind as best simulator in the world, but can AI/ML "think" and "simulate" senarios like human mind or do even better than human mind?
+
+I want to make a AI that seeds an initial thought, think simulate around the situation, stem its thoughts just like a human mind would. Train itself by thinking of multiple cases and comparing its predictions with the ground truth. We think, sometimes even overthink about unrealistic senarios in our head. This makes human thinking so congnitive and brilliant, we train our minds for all impossible and possible situations like, preparing for a disaster, imagining what questions will the interviewer ask, geopolitics etc. I am just trying to recreate this sort of training on AI that can use internet as it knowledge bank and think on a much larger scale.
+
+💡Start with a initial thought like "Gas prices", than start overthinking like human mind. Makeup fake senarios, react to these fake senarios, make multiple cases, train itself by studying cases and determining the best case and worst case. Let mind run wild and think to subtopics, get back to main trail of thoughts. Hopefully this can help me make an AI that can predict future to some extent or build an AI who's thinking process is more closer to that of humans.
